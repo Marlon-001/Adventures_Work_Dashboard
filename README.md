@@ -12,7 +12,7 @@ The dashboard provides a comprehensive view of business health, tracking **$24.9
 ## 📈 Key Insights & Features
 * **Executive KPIs:** Instant visibility into **Total Revenue ($24.9M)**, **Profit ($10.5M)**, and **Total Orders (25.2K)**.
 * **Revenue Trends:** Weekly line charts with trend analysis to monitor growth and seasonality.
-* **Product Performance:** Detailed matrix highlighting return rates and revenue per product, using **Conditional Formatting** to flag high-return items.
+* **Product Performance:**  Matrix highlighting tpp 10 return rates and revenue per product, using **Conditional Formatting** to flag high-return items.
 * **Category Analysis:** Breakdown of sales volume by category (Accessories, Bikes, and Clothing) to understand product mix.
 * **Time Intelligence:** Monthly revenue cards tracking a **3.31% increase** in performance vs. the previous month.
 
